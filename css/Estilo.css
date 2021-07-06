@@ -1,0 +1,14 @@
+.slide
+{
+    margin-top: 10px;
+}
+.slide img
+{
+    height: 75vh;
+}
+a.form
+{
+    text-decoration: none;
+    font-size: 12px;
+    color: gray;
+}
